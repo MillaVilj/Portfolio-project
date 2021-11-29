@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "node-sass": "^6.0.1"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0"
   }
 }
